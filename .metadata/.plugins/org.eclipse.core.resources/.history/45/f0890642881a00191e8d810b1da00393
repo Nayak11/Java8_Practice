@@ -1,0 +1,22 @@
+package com.sjsu.durgasoft.jav9;
+
+/*
+ * Sep 21st 2017
+ * Java 9 features:
+ * 1)JShell
+ * 2)JPMS-(Java Platform Module System)
+ * 3)JLINK(Java Linker)
+ * 4)HTTP/2 client
+ * 5)Process API Updates
+ * 6)private methods inside interface
+ * 7)try with resources enhancement
+ * 8)Factory methods to create unmodifiable collections
+ * 9)Stream API enhancements
+ * 10)<> operator enhancement
+ * 11)SafeVarargs annotation
+ * 12)G1 GC
+ * 
+ * */
+public class Test {
+	
+}
